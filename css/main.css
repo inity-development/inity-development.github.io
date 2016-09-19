@@ -65,8 +65,8 @@ ul li {
 	margin-bottom: 6px;
 	font-weight: 300;
 }
+/* Spec */
 
-img {
-	width: 100%;
-	display: block;
+.logotype {
+	margin: 20px 20px 0 20px;
 }
