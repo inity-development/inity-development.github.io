@@ -35,13 +35,12 @@ section {
 	border-radius: 3px;
 	padding: 20px;
 	text-align: center;
+	font-weight: 300;
 }
 
-h1 {
-	margin: 0;
-	font-weight: 300;
-	color: #FF5722;
-	font-size: 30px;
+h2 {
+	margin: 0 0 10px 0;
+	font-size: 18px;
 }
 
 
